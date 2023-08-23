@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicModule } from '@ionic/angular';
+import { environment } from '../environments/environment';
 
 @Component({
   selector: 'app-root',
